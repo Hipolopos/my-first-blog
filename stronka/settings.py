@@ -25,7 +25,7 @@ SECRET_KEY = 'zi#1*6&cup^n@s-3)86u=r+p4+ygljjmia-j@&bl119^)yv%0&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['hipolopos.pythonanywhere.com']
 
 
 # Application definition
